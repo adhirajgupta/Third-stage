@@ -35,6 +35,7 @@ vault.scale = 0.5
 background1.visible = false
 button.visible = false
 enter = createSprite(displayWidth/2+165,displayHeight/2+130,100,50);
+enter.visible = false;    
 
 }
 
