@@ -1,0 +1,77 @@
+.flex-container {
+display: flex;
+flex-direction: row;
+justify-content: center;
+padding-top: 1px;
+}
+
+.flex-containere{
+display: flex;
+flex-direction: row;
+justify-content: center;
+padding-bottom: 300px;
+}
+
+.flex-containerz{
+display: flex;
+flex-direction:row;
+justify-content: center;
+padding-bottom: 300px;
+}
+
+
+
+a:active{
+color:red;
+
+}
+a:link{
+color:yellow
+}
+
+a:hover{
+color:peru
+}
+.leftTop img{
+position: absolute;
+top: 30%;
+left: 21%;
+transform: translate(-50%,-50%);
+}
+
+.rightTop img{
+position: absolute;
+top: 30%;
+left: 75%;
+transform: translate(-50%,-50%);
+}
+
+.leftBottom img{
+position: absolute;
+top: 80%;
+left: 21%;
+transform: translate(-50%,-50%);
+}
+
+.rightBottom img{
+position: absolute;
+top: 80%;
+left: 75%;
+transform: translate(-50%,-50%);
+}
+
+.leftArrow img{
+position: absolute;
+top: 95%;
+left: 5%;
+transform: translate(-50%,-50%);
+}
+
+.rightArrow img{
+position: absolute;
+top: 95%;
+left: 95%;
+transform: translate(-50%,-50%);
+}
+
+
